@@ -1,0 +1,21 @@
+#clock {
+    color: white;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 200px;
+    color: antiquewhite;
+}
+
+
+body {
+    background-color: black;
+}
+
+.buttons {
+    color: black;
+}
